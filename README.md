@@ -4,7 +4,7 @@ A high-fidelity Customer Satisfaction (CSAT) Campaign Builder. This tool allows 
 
 ---
 
-## 🚀 Key Features
+##  Key Features
 
 ### 1. Dual-Mode Live Mobile Sandbox
 - **Realistic Phone Frame**: Rendered with curved corners, a top camera notch (mock dynamic island), cellular/5G/Wi-Fi icons, battery stats, and a clock matching local system time.
@@ -35,7 +35,7 @@ A high-fidelity Customer Satisfaction (CSAT) Campaign Builder. This tool allows 
 
 ---
 
-## 📁 Folder Structure
+##  Folder Structure
 
 ```text
 AppVersal/
@@ -59,7 +59,7 @@ AppVersal/
 
 ---
 
-## 💻 Local Setup & Installation
+##  Local Setup & Installation
 
 ### Prerequisites
 Make sure you have [Node.js](https://nodejs.org/) installed (v18+ recommended) along with `npm`.
@@ -88,7 +88,7 @@ Make sure you have [Node.js](https://nodejs.org/) installed (v18+ recommended) a
 
 ---
 
-## 🌐 Deployment
+##  Deployment
 
 This project is fully ready for zero-config hosting on Vercel, Netlify, or Firebase Hosting.
 
